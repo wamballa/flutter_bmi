@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'constants.dart';
+import 'package:flutter_bmi/constants.dart';
 
 class ReusableWidgetContent extends StatelessWidget {
   ReusableWidgetContent({required this.icon, required this.label});
